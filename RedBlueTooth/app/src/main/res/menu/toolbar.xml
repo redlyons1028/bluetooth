@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_action_overflow"
+        android:title="settings"
+        app:showAsAction="always">
+
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/show_data"
+                    android:title="显示波形"
+                    app:showAsAction="ifRoom" />
+                <item
+                    android:id="@+id/hide_data"
+                    android:title="隐藏波形"
+                    app:showAsAction="ifRoom"/>
+                <item
+                    android:id="@+id/auto_send"
+                    android:title="自动发送"
+                    app:showAsAction="ifRoom"/>
+                <item
+                    android:id="@+id/stop_send"
+                    android:title="停止发送"
+                    app:showAsAction="ifRoom"/>
+                <item
+                    android:id="@+id/clear_save"
+                    android:title="清除缓存"
+                    app:showAsAction="ifRoom" />
+            </group>
+        </menu>
+    </item>
+</menu>
