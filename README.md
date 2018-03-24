@@ -19,6 +19,18 @@ compile 'com.maxproj.simplewaveform:app:1.0.0'
 
 > 部分截图
 
+<div>
+<img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_1.png" height="350px"/>
+<img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_2.png" height="350px"/>
+<img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_3.png" height="350px"/>
+<br>
+<img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_4.jpg" height="350px"/>
+<img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_5.png" height="350px"/>
+<br>
+<img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_6.png" height="350px"/>
+<img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_7.jpg" height="350px"/>
+</div>
+
 > 参考资料
 
 - [清风微抚的个人博客](http://blog.csdn.net/max2005/article/details/50507727)
