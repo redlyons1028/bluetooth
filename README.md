@@ -31,7 +31,7 @@ compile 'com.maxproj.simplewaveform:app:1.0.0'
 <img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_6.png" height="350px"/>
 <img src="https://github.com/redlyons1028/picture/blob/master/bluetooth_chat_7.jpg" height="350px"/>
 </div>
-
+<br>
 > 参考资料
 
 - [清风微抚的个人博客](http://blog.csdn.net/max2005/article/details/50507727)
